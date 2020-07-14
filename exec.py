@@ -1,4 +1,4 @@
-from Movimentação.menu_gp_movimentacao.Main import Proj
+from Movimentação.Main import Proj
 
 if __name__ == '__main__':
   main = Proj()
